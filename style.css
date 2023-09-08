@@ -1,0 +1,91 @@
+body {
+    font-family: sans-serif;
+    background-color: black;
+}
+
+header {
+    justify-content: space-between;
+    padding: 10px;
+    margin-bottom: 20px;
+    display: flex;
+}
+
+.button {
+    background-color: #36bbce;
+    color: black;
+    text-decoration: none;
+    padding: 15px;
+    font-size: 24px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    text-align: right;
+}
+
+nav {
+    border-top: 5px solid white;
+    border-bottom: 5px solid white;
+    padding: 25px 100px 25px 95px;
+    justify-content: space-around;
+    display: flex;
+    font-family: Montserrat;
+}
+
+.nav-link {
+    font-size: 24px;
+    color: white;
+    text-decoration: none;
+}
+
+h1 {
+    text-align: center;
+    color: black;
+    font-size: 36px;
+    margin-top: ;
+    margin-bottom: ;
+}
+
+p {
+    font-size: 24px;
+}
+
+.info {
+    flex-wrap: wrap;
+    width: 1100px;
+    margin: 0px;
+    display: flex;
+    justify-content: center;
+}
+
+article {
+    background-color: whitesmoke;
+    padding: 20px;
+    width: 400px;
+    margin: 10px;
+    text-align: center;
+    border-radius: 15px;
+}
+
+.article-but {
+    text-decoration: none;
+    background-color: #754ce8ff;
+    color: black;
+    font-size: 24px;
+    text-align: center;
+    padding: 10px 75px 10px 75px;
+    border-radius: 15px;
+}
+
+footer {
+    background-color: #AC13A6;
+    padding: 20px;
+    display: flex;
+}
+
+footer a {
+    padding: 5px;
+}
+
+footer p {
+    font-size: 30px;
+
+}
