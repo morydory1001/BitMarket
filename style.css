@@ -40,8 +40,6 @@ h1 {
     text-align: center;
     color: black;
     font-size: 36px;
-    margin-top: ;
-    margin-bottom: ;
 }
 
 p {
@@ -50,7 +48,6 @@ p {
 
 .info {
     width: 1100px;
-    margin: 0px;
     display: flex;
     justify-content: center;
 }
