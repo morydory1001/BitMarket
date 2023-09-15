@@ -40,6 +40,8 @@ h1 {
     text-align: center;
     color: black;
     font-size: 36px;
+    margin-top: ;
+    margin-bottom: ;
 }
 
 p {
@@ -47,6 +49,7 @@ p {
 }
 
 .info {
+    flex-wrap:wrap;
     width: 1100px;
     display: flex;
     justify-content: center;
